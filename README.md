@@ -1,5 +1,5 @@
 # Laporan Insight Dashboard Olist E-Commerce
-
+Link to Power BI: https://app.powerbi.com/view?r=eyJrIjoiNDIyY2ZiMjUtNDgxYS00OGY0LWI1N2QtNDBhNTQzNmJlYThiIiwidCI6IjI5ZTVlYTIwLWRhYWEtNDI5MS1hMmFlLTg3NGU2M2MxZjI5MiIsImMiOjEwfQ%3D%3D
 ---
 
 ## 1. Revenue Performance
